@@ -1,0 +1,35 @@
+body {
+    background-color: beige;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#Nav_bar {
+    width: 100%;
+    height: 60px;
+    padding: 40px, 10px, 0px, 20px;
+    margin:0; 
+}
+button {
+    align-items: right;
+}
+
+
+#fotocoll .row{
+    margin-left: 15px;
+    margin-right: 15px;
+    height:auto;
+
+}
+
+
+#fotocoll  .col{
+    margin-top: 15px;
+
+}   
+
+#fotocoll  img, video{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+
+}   
